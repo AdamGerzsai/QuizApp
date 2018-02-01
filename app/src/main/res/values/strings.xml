@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="opening_text1">Can you save a life?  \nIn an emergency, when every second is critical, would you know what to do?</string>
+    <string name="opening_text2">Would you be able to save someones life?</string>
+    <string name="swipe">Swipe up to continue</string>
+    <string name="why">Why should I know how to perform CPR (Cardiopulmonary Resuscitation)?</string>
+    <string name="whyAnswer">
+        According to recent statistics sudden cardiac arrest is rapidly becoming the leading cause of death in America.
+        Once the heart ceases to function, a healthy human brain may survive without oxygen for up to 4 minutes without suffering any permanent damage.
+        Unfortunately, a typical EMS response may take 6, 8 or even 10 minutes. \n\nIt is during those critical minutes that CPR can provide oxygenated blood to the victim\'s brain and the heart,
+        dramatically increasing his chance of survival. And if properly instructed, almost anyone can learn and perform CPR.
+    </string>
+
+    <string name="time">
+        <b>CPR TIME LINE</b>
+        \n<u>0-4 mins:</u> brain damage unlikely
+        \n<u>4-6 mins:</u> brain damage possible
+        \n<u>6-10 mins:</u> brain damage probable
+        \n<u>over 10 mins:</u> probable brain death
+    </string>
+
+    <string name="quiz">Let\'s make a quick test to figure out, whether you would know what to do in this situation!</string>
+
+    <string name="namehint">Please enter your name!</string>
+    <string name="name">Name:</string>
+
+
+    <!--questions-->
+    <string name="q1">1. If you find someone collapsed, what is the first thing you should do?</string>
+    <string name="a1">Try and wake the person up</string>
+    <string name="b1">Call an ambulance</string>
+    <string name="c1">Check for danger</string>
+    <string name="d1">Check for breathing</string>
+
+    <string name="q2">2. How should you open an airway in an unconscious casualty?</string>
+    <string name="a2">Move the tongue with your fingers</string>
+    <string name="b2"> Tilt the head back &amp; lift the chin</string>
+    <string name="c2"> Tilt the head to the side</string>
+    <string name="d2"> Tilt the head forwards</string>
+
+    <string name="q3">3. How long should you check for breathing for?</string>
+    <string name="a3">15 seconds</string>
+    <string name="b3">5 seconds</string>
+    <string name="c3">10 seconds</string>
+    <string name="d3">20 seconds</string>
+
+    <string name="q4">4. If someone isn\'t breathing, what is the first thing you should do?</string>
+    <string name="a4">Setup an AED (Automated External Defibrillator)</string>
+    <string name="b4">Call an ambulance</string>
+    <string name="c4">Give 2 rescue breaths</string>
+    <string name="d4">Give 30 chest compressions</string>
+
+    <string name="q5">5. On an adult casualty, what is the ratio of chest compressions to rescue breaths?</string>
+    <string name="a5">15 : 2</string>
+    <string name="b5">30 : 2</string>
+    <string name="c5">30 : 5</string>
+    <string name="d5">1 : 5</string>
+
+    <string name="q6">6. When should you stop doing CPR?</string>
+    <string name="a6">The situation suddenly becomes too dangerous</string>
+    <string name="b6">After 5 minutes</string>
+    <string name="c6">You become too exhausted to continue</string>
+    <string name="d6">The casualty shows signs of life: coughing, breathing etc.</string>
+
+    <string name="q7">7. What rate of chest compressions should you aim for?</string>
+    <string name="a7">70 - 100</string>
+    <string name="b7">100 – 120</string>
+    <string name="c7">80 - 90</string>
+    <string name="d7">120 – 140</string>
+
+    <string name="q8">8. You have to undertaken formal first aid training in order to perform CPR</string>
+    <string name="a8">True</string>
+    <string name="b8">False</string>
+
+    <string name="q9">9. The casualty is likely to recover whilst you are performing CPR</string>
+    <string name="a9">True</string>
+    <string name="b9">False</string>
+
+    <string name="button">check results</string>
+
+    <string name="read">If you want to further your knowledge on this important topic, you can read the following brief lesson:</string>
+
+    <string name="good">Congratulations! \nYou have the potential of a real hero!</string>
+    <string name="okay">Good job! \nThank you for challenging yourself and taking this quiz! There\'s a little room for further improvement.</string>
+    <string name="poor">You could have done it better!\nThank you for challenging yourself! Please read the lesson and retake your quiz</string>
+
+    <!--lesson-->
+
+    <string name="lessonTitle">How to perform CPR?</string>
+    <string name="DRABC">
+        You can use the mnemonic <b>DR ABC</b> to remember what to do:
+        \n<li><b>Danger:</b> Check for any dangers to yourself.</li>
+        \n<li><b>Response:</b> Check for a response from the casualty. Shout and gently shake them on the shoulders.</li>
+        \n<li><b>Airway:</b> Kneel by the casualty’s head and open their airway by tilting their head backwards</li>
+        \n<li><b>Breathing:</b> Place your ear above their mouth and look at their chest. Check for normal breathing (regular breaths) for up to 10 seconds</li>
+        \n<li><b>Compressions:</b> If the casualty is not breathing, you should call an ambulance and start chest compressions.\n</li>
+        \nOnce you’ve found someone isn’t breathing, you should start CPR by administering 30 chest compressions.
+        Interlock your hands and place them in the middle of the person’s chest and push down 30 times.
+        You should aim for a depth equal to a third the depth of their chest.
+        \nYou do not need to check for a pulse, as this often wastes valuable time.
+        If a public defibrillator is available, then it should be sent for.
+        \nAfter 30 chest compressions, you should give 2 rescue breaths.
+        Tilt the casualty’s head backwards, make a seal over their mouth and breath in twice.
+        Each breath should only last about one second so as not to over inflate their lungs.
+        \nYou should aim for a rate of 100 – 120 chest compressions a minute.
+        Remember you don’t need to have undertaken formal first aid training in order to perform CPR!
+        \n\nWill the casualty wake up?
+        \n\nUnfortunately this is very unlikely to happen.
+        By doing chest compressions, you are taking over the job of the casualty’s heart (which has stopped) by forcibly compressing it.
+        In effect, you are acting as a life-support machine for the person.
+        \nIn order for the heart to be restarted,
+        it may require an electrical shock from a defibrillator or drugs given by a paramedic/doctor.
+        CPR on its own is very unlikely to restart someone’s heart.
+        \nHowever, good quality chest compressions will significantly increases the chance of the defibrillator being able to restart the heart.
+        \n\nYou should only stop doing CPR if:
+        \n\n<li>A defibrillator arrives and is about to be used</li>
+        \n<li>The casualty shows signs of life: coughing, breathing etc.</li>
+        \n<li>You are asked to stop by a healthcare professional (ambulance crew etc.)</li>
+        \n<li>You become too exhausted to continue</li>
+        \n<li>The situation suddenly becomes too dangerous</li>
+        \n\nIdeally, you should only carry out CPR for a couple of minutes before swapping with someone else.
+        This is to ensure that the chest compressions remain of good quality.
+    </string>
+    
+    <string name="learnMore">
+        Thank you for taking this quiz! It\'s important to remember that you don\'t need to have undertaken formal first aid training in order to perform CPR.
+        In case of cardiac arrest, the survival of someone can depend on receiving CPR from you.
+        This person could be even your loved one, whose life needs to be saved.
+        Let\'s spread the word about the importance of CPR and increase awareness in your local communities.
+    </string>
+
+    <string name="sources">
+        Sources:
+        \nhttp://www.firstaidforfree.com
+        \nhttp://www.whatiscpr.info
+        \nhttps://www.firstaidweb.com
+    </string>
+
+
+</resources>
